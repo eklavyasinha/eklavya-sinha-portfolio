@@ -1,6 +1,6 @@
 # Eklavya Sinha - Personal Portfolio
 
-A premium, modern, and fully responsive personal portfolio website built strictly with pure HTML and CSS (No JavaScript).
+A natural, minimal, and professional personal portfolio website built strictly with pure HTML and CSS (No JavaScript). Designed to reflect the authentic progression of a first-year Computer Science student.
 
 ## 👨‍💻 About The Author
 - **Name:** Eklavya Sinha
@@ -11,7 +11,7 @@ A premium, modern, and fully responsive personal portfolio website built strictl
 
 ## 🛠 Technology Stack
 - HTML5 (Semantic Layouts, Native Validation)
-- CSS3 (Variables, Grid/Flexbox, Pure CSS Toggles)
+- CSS3 (Variables, Editorial Grid Layouts, Clean Typography)
 - Zero JavaScript
 
 ## 📁 Local Setup
